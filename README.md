@@ -2,10 +2,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devsahilsingh&label=Profile%20views&color=0e75b6&style=flat" alt="sahilsingh" /> </p>
 
-- 🔭 Hello, I'm Sahil Singh, an accomplished frontend developer with a deep passion for creating exceptional user experiences. With 4 years of experience in the field, I have honed my skills in HTML, CSS, JavaScript , Typescript, React js, Redux and GitHub etc. to build visually stunning and user-friendly websites and applications. 
+🔭 Hello, I'm Sahil Singh, an accomplished frontend developer with a deep passion for creating exceptional user experiences. With 5+ years of experience, I have honed my skills in HTML, CSS, JavaScript, TypeScript, React.js, React Native, Next.js, Redux, and GitHub to build visually stunning and user-friendly web and mobile applications.
 
+🔭 Throughout my career, I have worked on a diverse range of projects, collaborating closely with cross-functional teams to transform ideas into fully functional and responsive web interfaces and mobile apps. I specialize in leveraging modern frontend frameworks and libraries such as React.js, React Native, Next.js, Redux, Bootstrap, Tailwind UI, and Material UI to deliver seamless and interactive experiences.
 
-- 🔭 Throughout my career, I have had the opportunity to work on a diverse range of projects, collaborating closely with cross-functional teams to transform ideas into fully functional and responsive web interfaces. I specialize in leveraging modern frontend frameworks and libraries like React.js , Redux, Bootstrap , Tailwind UI , Material UI to deliver seamless and interactive experiences. 
+🤖 Built and integrated an AI Assistant Bot using Node.js, Express.js, OpenAI APIs, and AWS, enabling intelligent conversations, smart responses, and scalable backend services.
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/devsahilsingh](https://github.com/devsahilsingh)
